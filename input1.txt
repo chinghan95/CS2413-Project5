@@ -1,0 +1,2 @@
+This is a test input file and this is the first line.
+This is the second line of the input file and is also the last.
